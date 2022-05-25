@@ -5,4 +5,5 @@
  - Connecting the Keypad 4X4 to the Raspberry Pi 4. 
  - Keypads that operate this way don’t need any power to work. 
  - This means that you can simply connect all eight data lines of the keypad to any eight GPIO pins on your Raspberry Pi
+ - new display
  
